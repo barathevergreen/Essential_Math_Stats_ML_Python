@@ -1,3 +1,11 @@
+Major Areas: 
+Equations, Graphs, and Functions
+Derivatives and Optimization
+Vectors and Matrices
+Statistics and Probability
+
+
+Ref:
 Plot area filled under the curve - 
 # show area for integral
 section = np.arange(0, 2, 1/30) #step value is key - we can give any small step
