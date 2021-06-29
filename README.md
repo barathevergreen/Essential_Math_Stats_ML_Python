@@ -1,4 +1,4 @@
-## Topics:
+## Topics: Math and stats in python: 
 
 Equations, Graphs, and Functions
 
